@@ -79,3 +79,84 @@ We follow a simple emoji-based system for commit messages:
 
 Let's build useful, ethical tech together.
 Got a question or an idea? [Open an issue](https://github.com/socle-commun/.github/issues/new) or join our discussions!
+
+---
+
+# 👋 Bienvenue sur Socle Commun !
+
+Nous sommes une organisation ouverte et communautaire qui construit des outils numériques inclusifs, accessibles et durables pour l’éducation, les communautés et la technologie d’intérêt général.
+
+Que vous soyez développeur·se, designer, enseignant·e ou militant·e — nous croyons que la technologie doit travailler **avec** les personnes, pas contre elles.
+
+---
+
+🙋‍♀️ **Qu'est-ce que Socle Commun ?**
+
+Socle Commun (en français, « fondation commune ») vise à créer une infrastructure numérique partagée pour le bien commun.
+
+Notre mission est de livrer des outils et des bibliothèques qui sont :
+
+🌈 **Inclusifs** — conçus pour des utilisateurs divers, toutes langues, cultures et capacités confondues
+👥 **Collaboratifs** — open-source et construits par la communauté
+🛠️ **Pratiques** — focalisés sur des besoins concrets en éducation, accessibilité et durabilité
+🌍 **Durables** — engagés pour une technologie éthique et des approches low-tech-friendly
+🤖 **IA Mainteneur** — Parce que nous croyons aux outils basés sur des LLM (modèles de langage).
+Tous nos projets sont conçus pour être lisibles et maintenables par des humains **et** des agents IA, en suivant des conventions strictes pour faciliter les contributions automatisées.
+
+---
+
+🔧 **Nos projets**
+
+🗣️ **Pick’n Talk** — Un ensemble d'outils modulaires pour créer et gérer des pictogrammes inclusifs, avec un support multilingue et des interfaces utilisateur personnalisables.
+
+---
+
+🌈 **Comment contribuer**
+
+Nous accueillons tous types de contributions :
+
+* Développement (front-end, back-end, accessibilité)
+* Design UI/UX
+* Rédaction de contenu & traduction
+* Animation de communauté & retours utilisateurs
+
+👣 Pour commencer :
+
+1. Lisez notre [[guide de contribution](https://chatgpt.com/g/g-680093b33e888191945d7b7fb55c9b8b-comet/c/CONTRIBUTING.md)](CONTRIBUTING.md)
+2. Consultez les issues ouvertes marquées ⛑
+3. Rejoignez nos discussions communautaires
+
+---
+
+👩‍💻 **Ressources utiles**
+
+📖 [[Documentation principale](https://socle-commun.github.io/)](https://socle-commun.github.io/)
+✍️ **Conventions de commit avec emoji**
+
+Nous suivons un système simple basé sur des emoji pour nos messages de commit :
+
+| Emoji | Signification                              |
+| ----- | ------------------------------------------ |
+| 🧠    | Logique IA, décisions, stratégie           |
+| ⚙️    | Setup, configuration, runtime              |
+| 📦    | Ajout/Mise à jour des dépendances          |
+| 📁    | Organisation, refactorisation de structure |
+| 📝    | Documentation, README, configs             |
+| 🧪    | Tests, mocks, validation                   |
+| 🐛    | Corrections de bugs                        |
+| 🚀    | Déploiement                                |
+| 🔥    | Suppression de code                        |
+| ✨     | Ajout d'une nouvelle fonctionnalité cool   |
+
+---
+
+🍿 **Le saviez-vous ?**
+
+* Pick’n Talk a été prototypé avec des post-its et des marqueurs avant d’écrire une seule ligne de code.
+* Une de nos tomates a survécu à un cycle complet de développement avec un capteur de sol… et a prospéré. 🍅
+
+---
+
+Construisons ensemble une technologie utile et éthique.
+Une question ou une idée ? Ouvrez une issue ou rejoignez nos discussions !
+
