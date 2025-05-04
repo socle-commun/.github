@@ -1,91 +1,82 @@
-# Hi there 👋
+## Hi there 👋
 
 Welcome to **Socle Commun**!
-We’re an open, community-driven organization creating inclusive, accessible, and sustainable digital tools for education, grassroots communities, and public interest tech. Whether you’re a developer, designer, teacher, or activist—we believe tech should work *with* you, not against you.
+We are an open, community-driven organization building inclusive, accessible, and sustainable digital tools for education, communities, and public interest technology.
 
-## 🙋‍♀️ What is Socle Commun?
+Whether you're a developer, designer, educator, or activist—we believe tech should work *with* people, not against them.
 
-**Socle Commun** (French for "common foundation") is about shared digital infrastructure for the common good.
-Our mission is to provide foundational tools and libraries that are:
+---
 
-* 🌈 **Inclusive** — built for diverse users across languages, cultures, and abilities
-* 👥 **Collaborative** — open-source and community-developed
-* 🛠️ **Practical** — focused on real-world needs in education, accessibility, and environmental impact
+### 🙋‍♀️ What is Socle Commun?
+
+**Socle Commun** (French for "common foundation") is about creating shared digital infrastructure for the common good.
+
+Our mission is to deliver tools and libraries that are:
+
+* 🌈 **Inclusive** — designed for diverse users across languages, cultures, and abilities
+* 👥 **Collaborative** — open-source and community-built
+* 🛠️ **Practical** — focused on real-world needs in education, accessibility, and sustainability
 * 🌍 **Sustainable** — committed to ethical tech and low-tech-friendly approaches
+* 🤖 **AI Maintainer** — Because we believe in LLM tools.
 
-## 🔧 Our Projects
-
-* **🌐 Picto** — A modular toolset for creating and managing inclusive pictograms, with multilingual support and adaptable user interfaces.
-* **🤖 Sloth** — A set of AI-powered developer tools and libraries designed to *slow down and think better*, helping devs automate tedious tasks while keeping humans in control.
-* **📚 Socle Docs** — A documentation hub focused on clear, accessible knowledge-sharing across all projects.
-* **🌿 Civic & Gardening Tech** — Open-source kits for urban gardening, educational makerspaces, and more.
-
-## 🌈 How to Contribute
-
-We welcome contributors from all backgrounds! Whether you’re writing code, testing features, translating content, or sharing feedback, you’re helping build the commons.
-
-👣 **Get started:**
-
-1. Read our [contribution guide](CONTRIBUTING.md)
-2. Check issues labeled `good first issue` or `help wanted`
-3. Join our [community chat](https://github.com/orgs/socle-commun/discussions) or attend an upcoming community call
-
-## 👩‍💻 Useful Resources
-
-* 📖 [Documentation](./docs)
-* ⚙️ [Developer Setup](./SETUP.md)
-* 🧭 [Values & Governance](./VALUES.md)
-* 📦 [NPM Packages](https://www.npmjs.com/org/socle-commun)
+All our projects are designed to be **readable and maintainable by both humans and AI agents**, following strict conventions to ease automated contributions.
 
 ---
 
-Let’s build something better, together.
-Have a question or idea? [Open an issue](https://github.com/socle-commun/socle/issues) or drop by our discussions!
+### 🔧 Our Projects
+
+* **🗣️ Pick’n Talk** — A modular toolset for creating and managing inclusive pictograms, with multilingual support and customizable user interfaces. `📦 API / 📝 Docs`
 
 ---
 
-# Salut à toi 👋
+### 🌈 How to Contribute
 
-Bienvenue sur **Socle Commun** !
-Nous sommes une organisation ouverte et collaborative qui crée des outils numériques inclusifs, accessibles et durables, au service de l’éducation, des communautés locales et de l’intérêt général. Que tu sois développeur·se, designer, enseignant·e ou militant·e, nous pensons que la technologie doit être conçue *avec* les gens, pas contre eux.
+We welcome contributors of all kinds:
 
-## 🙋‍♀️ C’est quoi Socle Commun ?
+* Coding (front-end, back-end, accessibility)
+* UI/UX design
+* Content writing & translation
+* Community outreach & feedback
 
-**Socle Commun**, c’est une base ouverte de projets et de bibliothèques pour le bien commun.
-Notre mission : fournir des outils numériques qui sont :
+👣 **To get started:**
 
-* 🌈 **Inclusifs** — pensés pour des publics variés, en plusieurs langues et avec une attention à l’accessibilité
-* 👥 **Collaboratifs** — développés en open source, avec une participation ouverte
-* 🛠️ **Pratiques** — centrés sur les besoins concrets : éducation, accessibilité, écologie
-* 🌍 **Durables** — engagés dans une démarche éthique et low-tech-compatible
-
-## 🔧 Nos projets
-
-* **🌐 Picto** — Une interface pour créer et gérer des pictogrammes inclusifs, avec support multilingue et personnalisation.
-* **🤖 Sloth** — Des bibliothèques d’outils pour développeur·ses, assistés par l’IA, qui visent à ralentir pour mieux penser le code.
-* **📚 Socle Docs** — Un espace de documentation clair et structuré pour partager les connaissances sur tous nos projets.
-* **🌿 Outils citoyens & jardinage** — Kits open source pour le jardinage urbain, les ateliers pédagogiques et les makerspaces.
-
-## 🌈 Comment contribuer
-
-Toutes les contributions sont bienvenues !
-Que tu proposes du code, des retours utilisateurs, des traductions, des idées ou des tests, tu aides à construire le commun.
-
-👣 **Pour commencer :**
-
-1. Lis notre [guide de contribution](CONTRIBUTING.md)
-2. Consulte les tickets `good first issue` ou `help wanted`
-3. Rejoins la communauté via [GitHub Discussions](https://github.com/orgs/socle-commun/discussions) ou nos appels ouverts
-
-## 👩‍💻 Ressources utiles
-
-* 📖 [Documentation principale](./docs/README.md)
-* ⚙️ [Installation développeur](./SETUP.md)
-* 🧭 [Nos valeurs et gouvernance](./VALUES.md)
-* 📦 [Nos packages NPM](https://www.npmjs.com/org/socle-commun)
+1. Read our [[contributing guide](https://chatgpt.com/g/g-680093b33e888191945d7b7fb55c9b8b-comet/c/CONTRIBUTING.md)](CONTRIBUTING.md)
+2. Check out open issues labeled ⛑
+3. Join our [community discussions](https://github.com/socle-commun/discussions)
 
 ---
 
-Construisons quelque chose d’utile et de commun.
-Une question ? Une idée ? [Ouvre une issue](https://github.com/socle-commun/socle/issues) ou viens discuter avec nous !
+### 👩‍💻 Useful Resources
 
+* 📖 [Main Documentation])(https://socle-commun.github.io/)
+
+---
+
+### ✍️ Emoji Commit Conventions
+
+We follow a simple emoji-based system for commit messages:
+
+| Emoji | Meaning                          |
+| ----- | -------------------------------- |
+| 🧠    | AI logic, decisions, strategy    |
+| ⚙️    | Setup, configuration, runtime    |
+| 📦    | Add/Update dependencies          |
+| 📁    | Organization, refactor structure |
+| 📝    | Documentation, README, configs   |
+| 🧪    | Tests, mocks, validation         |
+| 🐛    | Bug fixes                        |
+| 🚀    | Deploy                           |
+| 🔥    | Remove code                      |
+| ✨     | Add cool new feature             |
+
+---
+
+### 🍿 Fun Facts
+
+* Pick’n Talk was prototyped with post-its and markers before a single line of code was written.
+* One of our tomatoes survived a full dev cycle with a soil sensor in it—and thrived. 🍅
+
+---
+
+Let's build useful, ethical tech together.
+Got a question or an idea? [Open an issue](https://github.com/socle-commun/.github/issues) or join our discussions!
