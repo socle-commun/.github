@@ -40,15 +40,14 @@ We welcome contributors of all kinds:
 
 👣 **To get started:**
 
-1. Read our [[contributing guide](https://chatgpt.com/g/g-680093b33e888191945d7b7fb55c9b8b-comet/c/CONTRIBUTING.md)](CONTRIBUTING.md)
-2. Check out open issues labeled ⛑
-3. Join our [community discussions](https://github.com/socle-commun/discussions)
+1. Check out open issues labeled ⛑
+2. Join our [community discussions](https://github.com/orgs/socle-commun/discussions)
 
 ---
 
 ### 👩‍💻 Useful Resources
 
-* 📖 [Main Documentation])(https://socle-commun.github.io/)
+* 📖 [Main Documentation](https://socle-commun.github.io/)
 
 ---
 
@@ -79,4 +78,4 @@ We follow a simple emoji-based system for commit messages:
 ---
 
 Let's build useful, ethical tech together.
-Got a question or an idea? [Open an issue](https://github.com/socle-commun/.github/issues) or join our discussions!
+Got a question or an idea? [Open an issue](https://github.com/socle-commun/.github/issues/new) or join our discussions!
