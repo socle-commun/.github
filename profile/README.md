@@ -28,7 +28,7 @@ We welcome contributors from all backgrounds! Whether you’re writing code, tes
 
 1. Read our [contribution guide](CONTRIBUTING.md)
 2. Check issues labeled `good first issue` or `help wanted`
-3. Join our [community chat](https://github.com/socle-commun/discussions) or attend an upcoming community call
+3. Join our [community chat](https://github.com/orgs/socle-commun/discussions) or attend an upcoming community call
 
 ## 👩‍💻 Useful Resources
 
@@ -75,7 +75,7 @@ Que tu proposes du code, des retours utilisateurs, des traductions, des idées o
 
 1. Lis notre [guide de contribution](CONTRIBUTING.md)
 2. Consulte les tickets `good first issue` ou `help wanted`
-3. Rejoins la communauté via [GitHub Discussions](https://github.com/socle-commun/discussions) ou nos appels ouverts
+3. Rejoins la communauté via [GitHub Discussions](https://github.com/orgs/socle-commun/discussions) ou nos appels ouverts
 
 ## 👩‍💻 Ressources utiles
 
