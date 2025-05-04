@@ -41,3 +41,51 @@ We welcome contributors from all backgrounds! Whether you’re writing code, tes
 
 Let’s build something better, together.
 Have a question or idea? [Open an issue](https://github.com/socle-commun/socle/issues) or drop by our discussions!
+
+---
+
+# Salut à toi 👋
+
+Bienvenue sur **Socle Commun** !
+Nous sommes une organisation ouverte et collaborative qui crée des outils numériques inclusifs, accessibles et durables, au service de l’éducation, des communautés locales et de l’intérêt général. Que tu sois développeur·se, designer, enseignant·e ou militant·e, nous pensons que la technologie doit être conçue *avec* les gens, pas contre eux.
+
+## 🙋‍♀️ C’est quoi Socle Commun ?
+
+**Socle Commun**, c’est une base ouverte de projets et de bibliothèques pour le bien commun.
+Notre mission : fournir des outils numériques qui sont :
+
+* 🌈 **Inclusifs** — pensés pour des publics variés, en plusieurs langues et avec une attention à l’accessibilité
+* 👥 **Collaboratifs** — développés en open source, avec une participation ouverte
+* 🛠️ **Pratiques** — centrés sur les besoins concrets : éducation, accessibilité, écologie
+* 🌍 **Durables** — engagés dans une démarche éthique et low-tech-compatible
+
+## 🔧 Nos projets
+
+* **🌐 Picto** — Une interface pour créer et gérer des pictogrammes inclusifs, avec support multilingue et personnalisation.
+* **🤖 Sloth** — Des bibliothèques d’outils pour développeur·ses, assistés par l’IA, qui visent à ralentir pour mieux penser le code.
+* **📚 Socle Docs** — Un espace de documentation clair et structuré pour partager les connaissances sur tous nos projets.
+* **🌿 Outils citoyens & jardinage** — Kits open source pour le jardinage urbain, les ateliers pédagogiques et les makerspaces.
+
+## 🌈 Comment contribuer
+
+Toutes les contributions sont bienvenues !
+Que tu proposes du code, des retours utilisateurs, des traductions, des idées ou des tests, tu aides à construire le commun.
+
+👣 **Pour commencer :**
+
+1. Lis notre [guide de contribution](CONTRIBUTING.md)
+2. Consulte les tickets `good first issue` ou `help wanted`
+3. Rejoins la communauté via [GitHub Discussions](https://github.com/socle-commun/discussions) ou nos appels ouverts
+
+## 👩‍💻 Ressources utiles
+
+* 📖 [Documentation principale](./docs/README.md)
+* ⚙️ [Installation développeur](./SETUP.md)
+* 🧭 [Nos valeurs et gouvernance](./VALUES.md)
+* 📦 [Nos packages NPM](https://www.npmjs.com/org/socle-commun)
+
+---
+
+Construisons quelque chose d’utile et de commun.
+Une question ? Une idée ? [Ouvre une issue](https://github.com/socle-commun/socle/issues) ou viens discuter avec nous !
+
