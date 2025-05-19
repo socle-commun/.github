@@ -92,7 +92,7 @@ Que vous soyez développeur·se, designer, enseignant·e ou militant·e — nous
 
 🙋‍♀️ **Qu'est-ce que Socle Commun ?**
 
-Socle Commun (en français, « fondation commune ») vise à créer une infrastructure numérique partagée pour le bien commun.
+Socle Commun vise à créer une infrastructure numérique partagée pour le bien commun.
 
 Notre mission est de livrer des outils et des bibliothèques qui sont :
 
